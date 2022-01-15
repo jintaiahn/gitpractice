@@ -1,7 +1,4 @@
-ONE
-TWO
-THREE
-FOUR
-FIVE
-SEVEN?
-
+One
+two
+ready?
+Go!
