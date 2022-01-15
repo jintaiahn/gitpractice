@@ -1,4 +1,2 @@
-One
-two
-ready?
-Go!
+I just deleted everything.
+Now we'll see if the conflict resolved itself I guess?
